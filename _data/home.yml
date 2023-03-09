@@ -1,0 +1,22 @@
+navbar_entries:
+  - title: website
+    url: https://www.cscc.edu/
+
+  - title: LinkedIn
+    url: https://www.linkedin.com/
+
+  - title: GitHub
+    url: https://github.com/
+
+project_entries:
+  - title: Template Cheatsheet
+    url: template-cheatsheet-post
+    desc: This is an example project, for Cybersecurity
+
+  - title: Template 1
+    url: template-1-post
+    desc: This is an example project, for Data Analytics
+
+  - title: Template 2
+    url: template-2-post
+    desc: This is a description for your post tile
